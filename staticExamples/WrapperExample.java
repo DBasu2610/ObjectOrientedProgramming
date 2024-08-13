@@ -1,3 +1,4 @@
+package staticExamples;
 
 public class WrapperExample {
     public static void main(String[] args) {
